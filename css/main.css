@@ -40,11 +40,6 @@
     z-index: 1;
 }
 
-
-body {
-    margin: 0;
-}
-
 .image-grid {
     --gap: 16px;
     --num-cols: 4;
@@ -75,23 +70,9 @@ body {
 }
 
 /*Fonts*/
-/*@font-face {*/
-/*    font-family: Sk-Modernist;*/
-/*    src: url("/fonts/Sk-Modernist-Regular.otf") format("opentype");*/
-/*}*/
-/*@font-face {*/
-/*    font-family: Sk-Modernist-Mono;*/
-/*    src: url("/fonts/Sk-Modernist-Mono.otf") format("opentype");*/
-/*}*/
-/*@font-face {*/
-/*    font-family: Sk-Modernist-Bold;*/
-/*    src: url("/fonts/Sk-Modernist-Bold.otf") format("opentype");*/
-/*    font-weight: bold;*/
-/*}*/
-/*Contact page design*/
 body {
-    /*font-family: Sk-Modernist-Mono;*/
     font-family: 'Space Mono', monospace;
+    margin: 0;
 }
 
 h1 {
